@@ -1,0 +1,1 @@
+select * from secure_kirby_external_data.skill_dashboard_v1
